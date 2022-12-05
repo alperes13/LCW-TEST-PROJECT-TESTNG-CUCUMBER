@@ -1,0 +1,44 @@
+2022-12-05 14:29:03,534 INFO  [Log] Mouse overed on Aksesuar 
+2022-12-05 14:29:08,951 INFO  [Log] Clicked on Plaj Havlusu 
+2022-12-05 14:29:09,006 INFO  [Log] Page header is : plaj havlusu 
+2022-12-05 14:29:09,010 INFO  [Log] Url is : https://www.lcwaikiki.com/tr-tr/tr/etiket/plaj-havlusu 
+2022-12-05 14:29:09,049 INFO  [Log] Product title is : renk bloklu püsküllü peştamal plaj havlusu 90x165 cm 
+2022-12-05 14:29:09,049 INFO  [Log] Assertions passed 
+2022-12-05 14:29:15,556 INFO  [Log] Clicked on random product 
+2022-12-05 14:29:15,822 INFO  [Log] Product page validated 
+2022-12-05 14:29:15,994 INFO  [Log] Clicked on any variation if it exist 
+2022-12-05 14:29:16,101 INFO  [Log] Product added to cart 
+2022-12-05 14:29:19,330 INFO  [Log] Card badge is 1 
+2022-12-05 14:29:19,511 INFO  [Log] Navigated to my cart 
+2022-12-05 14:29:51,360 INFO  [Log] Searching for blazer 
+2022-12-05 14:29:52,809 INFO  [Log] Product count is : 96 
+2022-12-05 14:29:52,852 INFO  [Log] Information is : 96 
+2022-12-05 14:29:52,875 INFO  [Log] Assertion passed 
+2022-12-05 14:30:13,204 INFO  [Log] Searching for jogger 
+2022-12-05 14:30:13,567 INFO  [Log] Products filtered for XL 
+2022-12-05 14:30:14,933 INFO  [Log] Variation count is : 674 
+2022-12-05 14:30:15,176 INFO  [Log] Information is : 674 
+2022-12-05 14:30:15,176 INFO  [Log] Assertion passed 
+2022-12-05 14:30:34,375 INFO  [Log] Searching for bere 
+2022-12-05 14:30:34,511 INFO  [Log] Clicked on dropdown in page content 
+2022-12-05 14:30:34,718 INFO  [Log] Products sorted for highest 
+2022-12-05 14:30:48,991 INFO  [Log] Products sorted correctly. 
+2022-12-05 14:31:10,450 INFO  [Log] Searching for bere 
+2022-12-05 14:31:10,688 INFO  [Log] Clicked on dropdown in page content 
+2022-12-05 14:31:10,904 INFO  [Log] Products sorted for lowest 
+2022-12-05 14:31:25,731 INFO  [Log] Products sorted correctly. 
+2022-12-05 14:31:44,383 INFO  [Log] Searching for spor 
+2022-12-05 14:31:45,858 INFO  [Log] Total quantity in filters : 11273 
+2022-12-05 14:31:45,892 INFO  [Log] Information of quantity : 11273 
+2022-12-05 14:31:45,892 INFO  [Log] Assertion passed 
+2022-12-05 14:32:03,150 INFO  [Log] Searching for jean 
+2022-12-05 14:32:03,391 INFO  [Log] Page header is : jean 
+2022-12-05 14:32:03,394 INFO  [Log] Url is : https://www.lcwaikiki.com/tr-tr/tr/arama?q=jean 
+2022-12-05 14:32:03,427 INFO  [Log] Product title is : standart fit cep detaylı düz kadın rodeo jean pantolon 
+2022-12-05 14:32:03,427 INFO  [Log] Assertions passed 
+2022-12-05 14:32:16,534 INFO  [Log] Mouse overed on Aksesuar 
+2022-12-05 14:32:20,221 INFO  [Log] Clicked on Plaj Havlusu 
+2022-12-05 14:32:20,405 INFO  [Log] Page header is : plaj havlusu 
+2022-12-05 14:32:20,408 INFO  [Log] Url is : https://www.lcwaikiki.com/tr-tr/tr/etiket/plaj-havlusu 
+2022-12-05 14:32:20,440 INFO  [Log] Product title is : renk bloklu püsküllü peştamal plaj havlusu 90x165 cm 
+2022-12-05 14:32:20,440 INFO  [Log] Assertions passed 
